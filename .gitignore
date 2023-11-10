@@ -4,6 +4,7 @@
 *.c
 *.cpp
 *.png
+*.nii.gz
 *.vtk
 *.gz
 *.dpy
@@ -12,6 +13,7 @@
 *.hdr
 *.mat
 *.pkl
+.csv
 *.orig
 *.trk
 *.pam5
