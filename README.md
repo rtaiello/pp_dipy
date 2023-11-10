@@ -37,10 +37,10 @@ Anaconda can be installed in your user directory and does not interfere with the
 * **Riccardo Taiello**  - [github](https://github.com/rtaiello) - [website](https://rtaiello.github.io)
 * **Melek Önen**  - [website](https://www.eurecom.fr/en/people/onen-melek)
 * **Olivier Humbert**  - [LinkedIn](https://www.linkedin.com/in/olivier-humbert-b14553173/)
+* * **Francesco Capano**  - [github](https://github.com/fra-cap) - [LinkedIn](https://www.linkedin.com/in/francesco-capano/)
 * **Marco Lorenzi**  - [website](https://marcolorenzi.github.io/)
 ## Contributors:
 * **Riccardo Taiello**  - [github](https://github.com/rtaiello) - [website](https://rtaiello.github.io)
-* **Francesco Capano**  - [github](https://github.com/fra-cap) - [LinkedIn](https://www.linkedin.com/in/francesco-capano/)
 ## Results
 ### Symmetric Diffeomorphic Registration
 Qualitative results for symmetric diffeomorphic registration with CC over 3D medical images. The images are presented in a 3 x 4 grid, with the first row representing the axial axis, the second row the coronal axis, and the third row the sagittal axis. In the first column of each row, the moving image obtained using PET modality is shown, while in the second column, the fixed image obtained using MRI modality is displayed. The third column shows the moving image transformed using Clear, while the fourth column shows the moving image transformed using PPIR(MPC). The transformed images are highlighted by red and green frames, respectively. 
