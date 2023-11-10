@@ -3,7 +3,6 @@
 # Privacy Preserving Dipy
 ![Inria](https://img.shields.io/badge/-INRIA-red) 
 ![Eurecom](https://img.shields.io/badge/-EURECOM-blue) <br> 
-[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 <br>
 </div>
 
@@ -45,4 +44,4 @@ Anaconda can be installed in your user directory and does not interfere with the
 ## Results
 Qualitative results for symmetric diffeomorphic Registration with CC over 3D medical images. The images are presented in a $3 \times 4$ grid, with the first row representing the axial axis, the second row the coronal axis, and the third row the sagittal axis. In the first column of each row, the moving image obtained using PET modality is shown, while in the second column, the fixed image obtained using MRI modality is displayed. The third column shows the moving image transformed using \textsc{Clear}, while the fourth column shows the moving image transformed using \textsc{PPIR(MPC)}. The transformed images are highlighted by red and green frames, respectively. 
 <br>
-![Image Results](github_images/syn_cc_3d.png)
+![Image Results](https://github.com/rtaiello/pp_dipy/blob/main/github_images/syn_cc_3d.png)
