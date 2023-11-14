@@ -41,3 +41,4 @@ dipy/.idea/
 .pytest_cache/*
 tmp/
 venv
+*.csv
