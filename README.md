@@ -1,6 +1,6 @@
 <div align="center">    
  
-# Privacy Preserving Dipy
+# Privacy Preserving Image Registration with Dipy
 ![Inria](https://img.shields.io/badge/-INRIA-red) 
 ![Eurecom](https://img.shields.io/badge/-EURECOM-blue) <br> 
 <br>
@@ -8,7 +8,7 @@
 
 ## Description
 
-This repository contains the official code of the research paper Privacy Preserving Image Registration **currently under submission** with the extnesion of the library [Dipy](https://github.com/dipy/dipy).
+This repository contains the official code of the research paper Privacy Preserving Image Registration **Published to [Medical Image Analysis](https://www.sciencedirect.com/science/article/abs/pii/S1361841524000549)** with the extnesion of the library [Dipy](https://github.com/dipy/dipy).
 
 ## How to run
 ### Dependecies
